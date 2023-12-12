@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+     <row>
+        <name>Milk Tea</name>
+        <category>Drink</category>
+        <ID>1</ID>
+        <price>2.00</price>
+     </row>
+     <row>
+        <name>Lemon Juice</name>
+        <category>Drink</category>
+        <ID>2</ID>
+        <price>1.50</price>
+     </row>
+     <row>
+        <name>Tomato Soup</name>
+        <category>Starter</category>
+        <ID>3</ID>
+        <price>2.50</price>
+     </row>
+     <row>
+        <name>Salad</name>
+        <category>Starter</category>
+        <ID>4</ID>
+        <price>2.50</price>
+     </row>
+     <row>
+        <name>Pasta</name>
+        <category>Main Dish</category>
+        <ID>5</ID>
+        <price>4.00</price>
+     </row>
+     <row>
+        <name>Rice</name>
+        <category>Main Dish</category>
+        <ID>6</ID>
+        <price>4.00</price>
+     </row>
+     <row>
+        <name>Quark</name>
+        <category>Dessert</category>
+        <ID>7</ID>
+        <price>3.00</price>
+     </row>
+</menu>
